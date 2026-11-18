@@ -1,0 +1,16 @@
+node_modules/
+dist/
+out/
+.env*
+!.env.example
+*.pem
+*.key
+*.p12
+*.sqlite
+*.sqlite3
+*.db
+.opencode/
+.omo/
+.claude/
+.cursor/
+.DS_Store
